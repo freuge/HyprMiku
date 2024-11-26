@@ -1,0 +1,13 @@
+
+[color]
+
+ gradient = 1
+ gradient_count = 8
+ gradient_color_1 = '#D1CCFF'
+ gradient_color_2 = '#B1AAF0'
+ gradient_color_3 = '#9ABBE6'
+ gradient_color_4 = '#7A9AC2'
+ gradient_color_5 = '#6587A3'
+ gradient_color_6 = '#57768F'
+ gradient_color_7 = '#4B677D'
+ gradient_color_8 = '#3A556B'
