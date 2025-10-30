@@ -1,0 +1,12 @@
+set recolor true
+set recolor-keephue true
+set recolor-lightcolor "#08090E"  # page background
+set recolor-darkcolor  "#cdd6f4"  # text color
+
+set default-bg "#08090E"
+set default-fg "#cdd6f4"
+set statusbar-bg "#08090E"
+set statusbar-fg "#cdd6f4"
+set inputbar-bg  "#08090E"
+set inputbar-fg  "#cdd6f4"
+set font "EB Garamond 11"
