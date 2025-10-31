@@ -23,4 +23,4 @@ function r
         rm -f "$tmp"
     end
 end
-set -x GEMINI_API_KEY "AIzaSyAsFoDV_WTvu0A9Lm7G3_MZDzAiJPzWHso"
+set -x GEMINI_API_KEY ""
